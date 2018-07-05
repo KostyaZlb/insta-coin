@@ -1,0 +1,43 @@
+html {
+    height: 100%;
+}
+
+body {
+    background-image: url(./img/background.png);
+    background-attachment: fixed;
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+body #blug {
+    width: 100%;
+    min-height: 100%;
+    background-color: rgba(62, 62, 62, 0.5);
+    margin: 0;
+    padding: 0;
+}
+
+#blug #valuta {
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: stretch;
+}
+
+#valuta .valuta-item {
+    width: auto;
+    height: auto;
+    margin: 10px;
+}
+
+#valuta .valuta-item h1{
+    
+}
+
+#valuta .valuta-item p {
+    
+}
