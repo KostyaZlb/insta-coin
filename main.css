@@ -45,12 +45,14 @@ body {
     margin: 0;
     vertical-align: middle;
     text-align: center;
-    text-shadow:  4px 2px 15px;
+    text-shadow:  4px 2px 15px #000;
+    font-family: 'Roboto', sans-serif;
 }
 
 #valuta .valuta-item .item-title {
     color: #ffffff;
     margin: 0;
+    font-family: 'Chala One', cursive;
     font-size: 5vw;
 }
 
